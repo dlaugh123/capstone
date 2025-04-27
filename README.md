@@ -2,6 +2,8 @@
 
 David Melaugh
 
+Please see Project Presentation for more details: https://github.com/dlaugh123/capstone/blob/main/Project%20Presentation.pdf.
+
 #### Executive summary
 
 Started in November 2009, the Pleasanton Malt Whisky Circle is composed a group of friends that have met roughly every six weeks to connect over a shared love of whisky -- primarily Scotch whisky. 
@@ -59,6 +61,8 @@ The project is in near final form.  One significant addition I intend to make pr
 There is an external source of public whisky reviews, www.whiskybase.com, that I might try to correlate with this dataset.  It would, however, involve considerable manual effort to match specific whiskies at that site with the correct whiskies in the PMWC's dataset.
 
 #### Outline of project
+
+Project Presentation: https://github.com/dlaugh123/capstone/blob/main/Project%20Presentation.pdf
 
 Data: https://github.com/dlaugh123/capstone/blob/main/Master%20Data%20File.xlsx
 
