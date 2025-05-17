@@ -54,15 +54,15 @@ The results are more fully described in the Project Presentation, but included:
 - Predictive modeling techniques are capable of moderate accuracy, topping out at R^2 0.49 / NMSE 0.51 for specific score prediction or 62% accuracy for high/medium/low score bucket prediction.
 
 
-#### Next steps
+#### Post-Capstone Areas for Enhancement
 
-The project is in near final form.  One significant addition I intend to make prior to finalization is to compare the predictions from this project to subsequent data.  Our group has held two meetings since I started this project, and that data is not part of the current dataset.  I intend to try to "predict" the score results from those meetings.
+Happily, our group continues to hold meetings.  We have had two such meetings since I ingested the data for this project, and have another next week.  I hope to regularly update this dataset, and intend to try to "predict" score results at upcoming meetings.
 
-There is an external source of public whisky reviews, www.whiskybase.com, that I might try to correlate with this dataset.  It would, however, involve considerable manual effort to match specific whiskies at that site with the correct whiskies in the PMWC's dataset.
+There is an external source of public whisky reviews, www.whiskybase.com, that I might try to correlate with this dataset.  It would, however, involve considerable manual effort to match specific whiskies at that site with the correct whiskies in the PMWC's dataset.  There are also a variety of sources of subjective descriptions of whiskies ("notes of caramel", "smokey," etc.) that could be sources from distilleries' own descriptions, public reviews, etc.  This could prove a very helpful source of data to boost predictive power, but would likewise involve considerable legwork in data collection.
 
 #### Outline of project
 
-Project Presentation: https://github.com/dlaugh123/capstone/blob/main/Project%20Presentation.pdf
+Project Presentation: https://github.com/dlaugh123/capstone/blob/main/Project%20Presentation.pdf (PLEASE REVIEW, as it contains considerable additional discussion in lieu of more interlineations in the .ipynb files)
 
 Data: https://github.com/dlaugh123/capstone/blob/main/Master%20Data%20File.xlsx
 
@@ -92,7 +92,7 @@ melaugh@gmail.com
 
 ##### AI Usage Statement
 
-First draft of all code was written by author.  Code was subsequently improved and refined via dialog with ChatGPT Canvas code editor.
+First draft of code was written by author.  Code was subsequently improved and refined via dialog with ChatGPT Canvas/Codex code editor.
 
 Heaviest use of AI was in the Member Report Generator, to refine PDF formatting, and in the Score Prediction analysis, to employ techniques outside scope of course materials (e.g., LightGBM, CatBoost).
 
