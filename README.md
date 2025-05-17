@@ -2,7 +2,7 @@
 
 David Melaugh
 
-Please see Project Presentation for more details: https://github.com/dlaugh123/capstone/blob/main/Project%20Presentation.pdf.
+**Please see Project Presentation for more details:** https://github.com/dlaugh123/capstone/blob/main/Project%20Presentation.pdf.
 
 #### Executive summary
 
